@@ -1,0 +1,20 @@
+{
+  "name": "sandogh",
+  "version": "1.0.0",
+  "description": "sandogh web app for management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mostafa Sarmad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jalali-moment": "^3.3.9",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.3",
+    "nodemailer": "^6.4.17",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.0.4"
+  }
+}
